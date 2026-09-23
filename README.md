@@ -1,2 +1,2 @@
 # Unikin-ML-AI
-This is the repository for collaboration with Unikin colleagues
+This repository is intended for collaboration with colleagues from Unikin.
